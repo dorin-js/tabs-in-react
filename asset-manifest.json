@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabs-in-react/static/css/main.cf38550b.css",
+    "main.js": "/tabs-in-react/static/js/main.b237fd8e.js",
+    "static/js/787.34d72782.chunk.js": "/tabs-in-react/static/js/787.34d72782.chunk.js",
+    "index.html": "/tabs-in-react/index.html",
+    "main.cf38550b.css.map": "/tabs-in-react/static/css/main.cf38550b.css.map",
+    "main.b237fd8e.js.map": "/tabs-in-react/static/js/main.b237fd8e.js.map",
+    "787.34d72782.chunk.js.map": "/tabs-in-react/static/js/787.34d72782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.b237fd8e.js"
+  ]
+}
